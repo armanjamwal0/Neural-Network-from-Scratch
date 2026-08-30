@@ -8,7 +8,7 @@
  
 #### Hi, I created a neural network from scratch. I'll explain how it works and the steps of a neural network:
  
-## Oh, I forgot to say I use backpropagation for training the neural network. I'll explain how backpropagation works end-to-end:
+## I use backpropagation for training the neural network. I'll explain how backpropagation works end-to-end:
  
 > [!NOTE] 
  
